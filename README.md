@@ -9,6 +9,6 @@ then,
 
 ```npm install``` and   ```npm start``
 
-access on browser by typing ```http://localhost:3978/webchat/?s=your secret ```
+access on browser by typing ```http://localhost:3978/webchat/?s=your directline secret ```
 
 ## tested only on ubuntu 16.04
