@@ -1,0 +1,21 @@
+{
+  "name": "bot-handoff",
+  "version": "1.0.0",
+  "description": "a simple human handoff for ms bot framework",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratiksinghchauhan/Botframework-humanhandoff.git"
+  },
+  "author": "pratiksinghchauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratiksinghchauhan/Botframework-humanhandoff/issues"
+  },
+  "homepage": "https://github.com/pratiksinghchauhan/Botframework-humanhandoff#readme"
+}
